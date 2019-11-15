@@ -1,0 +1,16 @@
+
+  .Start {
+    display: grid;
+    width: 50%;
+    
+  }
+  *{
+    text-align: center;
+  }
+  .title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+  }
+ 
